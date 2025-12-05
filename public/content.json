@@ -1,0 +1,463 @@
+{
+  "site": {
+    "name": "RAOU",
+    "tagline": "Clear Plans. Meaningful Travel.",
+    "description": "Boutique DMC solutions, curated travel, and experiences shaped with meaning.",
+    "companyInfo": {
+      "fullName": "RAOU Travel",
+      "locations": [
+        "Berlin",
+        "Istanbul"
+      ],
+      "email": "info@raoutravel.com",
+      "phone": ""
+    },
+    "social": {
+      "instagram": "https://instagram.com",
+      "facebook": "https://facebook.com",
+      "twitter": "https://twitter.com"
+    }
+  },
+  "navigation": {
+    "logo": "/assets/logo.png",
+    "menuItems": [
+      {
+        "label": "Home",
+        "path": "/"
+      },
+      {
+        "label": "About Us",
+        "path": "/about"
+      },
+      {
+        "label": "Services",
+        "path": "/services"
+      },
+      {
+        "label": "Signature Destinations",
+        "path": "/destinations"
+      },
+      {
+        "label": "Journal",
+        "path": "/journal"
+      },
+      {
+        "label": "Contact",
+        "path": "/contact"
+      }
+    ],
+    "ctaButton": {
+      "label": "Start Your Request",
+      "path": "/contact"
+    }
+  },
+  "home": {
+    "hero": {
+      "title": "Clear Plans. Meaningful Travel.",
+      "subtitle": "Boutique DMC solutions, curated travel, and experiences shaped with meaning.",
+      "subtitle_short": "Boutique DMC solutions, curated travel, and experiences shaped with meaning.",
+      "subtitle_long": "Boutique DMC solutions, curated travel, and experiences shaped with meaning.",
+      "image": "/assets/hero-background-clean.png",
+      "primaryCta": {
+        "label": "For Brands & Agencies",
+        "path": "/contact"
+      },
+      "secondaryCta": {
+        "label": "For Private Travel",
+        "path": "/contact"
+      }
+    },
+    "buttons": {
+      "philosophy": "OUR PHILOSOPHY",
+      "viewDestinations": "VIEW ALL DESTINATIONS",
+      "readJournal": "READ THE JOURNAL"
+    },
+    "intro": {
+      "title": "The Art of Slow Travel",
+      "text": "RAOU is a Boutique DMC company delivering structured travel solutions for brands, agencies, and corporate partners.\nWe also curate a limited number of private journeys for travelers seeking intentional, well‑paced routes.",
+      "description": "RAOU is a Boutique DMC company delivering structured travel solutions for brands, agencies, and corporate partners. We also curate a limited number of private journeys for travelers seeking intentional, well‑paced routes.",
+      "description_short": "RAOU is a Boutique DMC company delivering structured travel solutions for brands, agencies, and corporate partners. We also curate a limited number of private journeys for travelers seeking intentional, well‑paced routes.",
+      "description_long": "RAOU is a Boutique DMC company focused on clarity, structure, and operational excellence. We support brands, agencies, and corporate teams with end‑to‑end programs built to flow smoothly in real life. We also design a limited number of private curated journeys each year, applying the same structured and intentional approach.",
+      "image": "/assets/art-of-slow-travel.png"
+    },
+    "servicesOverview": [
+      {
+        "title": "Boutique DMC Solutions",
+        "description": "We create clear, well-structured travel programs for brands, agencies, and corporate partners.",
+        "link": "/services"
+      },
+      {
+        "title": "Curated Travel",
+        "description": "We design tailored travel plans based on personal needs, pace, and expectations.",
+        "link": "/services"
+      }
+    ],
+    "howWeWork": {
+      "steps": [
+        {
+          "name": "Listen",
+          "description": "We begin by understanding purpose, pace, and expectations.",
+          "description_short": "We begin by understanding purpose, pace, and expectations.",
+          "description_long": "We believe travel becomes meaningful when decisions are made with intention. We begin by understanding purpose, pace, and expectations."
+        },
+        {
+          "name": "Design",
+          "description": "We build structured, realistic, coherent plans.",
+          "description_short": "We build structured, realistic, coherent plans.",
+          "description_long": "Every journey is shaped through clarity and pacing rather than volume. We build structured, realistic, coherent plans."
+        },
+        {
+          "name": "Curate",
+          "description": "We select only the right partners and experiences — not many, only the essential.",
+          "description_short": "We select only the right partners and experiences — not many, only the essential.",
+          "description_long": "We select only the right partners and experiences — not many, only the essential."
+        },
+        {
+          "name": "Execute",
+          "description": "We manage logistics, timing, coordination, and controlled flow.",
+          "description_short": "We manage logistics, timing, coordination, and controlled flow.",
+          "description_long": "We manage logistics, timing, coordination, and controlled flow."
+        },
+        {
+          "name": "Support",
+          "description": "We remain available throughout the entire journey, ensuring clarity at every step.",
+          "description_short": "We remain available throughout the entire journey, ensuring clarity at every step.",
+          "description_long": "We remain available throughout the entire journey, ensuring clarity at every step."
+        }
+      ]
+    },
+    "signatureDestinationsPreview": {
+      "title": "Signature Destinations",
+      "subtitle": "Editorial, inspiration‑driven introduction to regions."
+    },
+    "journalPreview": {
+      "title": "Journal",
+      "subtitle": "Short teaser excerpts to reinforce brand depth."
+    }
+  },
+  "about": {
+    "hero": {
+      "title": "About RAOU",
+      "subtitle": "A boutique DMC company built on clarity, structure, and intentional planning.",
+      "subtitle_short": "A boutique DMC company built on clarity, structure, and intentional planning.",
+      "subtitle_long": "A boutique DMC company built on clarity, structure, and intentional planning.",
+      "image": "/assets/about-hero.png"
+    },
+    "content": [
+      "RAOU was founded on the belief that travel becomes richer when simplicity and structure replace noise and excess.",
+      "Our work combines operational precision with thoughtful curation, balancing the pace, rhythm, and purpose of every journey.",
+      "We design programs that move smoothly, feel coherent, and allow both corporate guests and private travelers to experience each destination with meaning."
+    ],
+    "content_short": [
+      "A boutique DMC company built on clarity, structure, and intentional planning."
+    ],
+    "content_long": [
+      "RAOU was founded on the belief that travel becomes richer when simplicity and structure replace noise and excess.",
+      "Our work combines operational precision with thoughtful curation, balancing the pace, rhythm, and purpose of every journey.",
+      "We design programs that move smoothly, feel coherent, and allow both corporate guests and private travelers to experience each destination with meaning."
+    ]
+  },
+  "services": {
+    "hero": {
+      "title": "Our Services",
+      "subtitle": "RAOU offers Boutique DMC solutions and a limited number of curated private journeys.",
+      "image": "/assets/services-hero.png"
+    },
+    "intro": {
+      "title": "What We Do",
+      "description": "We provide Boutique DMC and selected MICE services for brands, agencies, and corporate partners. We also curate a small number of private journeys each year designed with the same clarity and structured approach."
+    },
+    "dmc": {
+      "title": "Boutique DMC Solutions",
+      "description": "We create clear, well-structured travel programs for brands, agencies, and corporate partners. Our DMC work integrates logistics, timing, guest flow, hotels, culture, and operations into one coherent system ensuring that every journey runs smoothly from start to finish.",
+      "portfolio": [
+        "Incentive & corporate programs",
+        "MICE",
+        "Delegation & protocol coordination",
+        "VIP & executive guest handling",
+        "Meetings & event logistics",
+        "Ground operations & transportation",
+        "Hotel contracting & supplier management",
+        "Cultural, culinary & thematic program design",
+        "On‑site coordination & multilingual support"
+      ]
+    },
+    "curated": {
+      "title": "Curated Travel",
+      "subtitle": "B2C Secondary Service",
+      "description": "We design tailored travel plans based on personal needs, pace, and expectations. The goal is simple: reduce complexity, create clarity, and make travel more meaningful."
+    },
+    "process": {
+      "title": "How We Work",
+      "steps": [
+        {
+          "step": "01",
+          "name": "Listen",
+          "description": "We begin by understanding purpose, pace, and expectations."
+        },
+        {
+          "step": "02",
+          "name": "Design",
+          "description": "We build structured, realistic, coherent plans."
+        },
+        {
+          "step": "03",
+          "name": "Curate",
+          "description": "We select only the right partners and experiences — not many, only the essential."
+        },
+        {
+          "step": "04",
+          "name": "Execute",
+          "description": "We manage logistics, timing, coordination, and controlled flow."
+        },
+        {
+          "step": "05",
+          "name": "Support",
+          "description": "We remain available throughout the entire journey, ensuring clarity at every step."
+        }
+      ]
+    },
+    "whoWeWorkWith": "Brands, creative agencies, corporate teams, VIP guests, and selected private clients.",
+    "cta": {
+      "dmc": "partners@raoutravel.com",
+      "curated": "travel@raoutravel.com"
+    }
+  },
+  "destinations": [
+    {
+      "region": "Vietnam – Cambodia – Laos",
+      "slug": "vietnam-cambodia-laos",
+      "shortDescription": "Rivers define the rhythm here... The deepest experiences belong to those who choose not to rush.",
+      "longDescription": "Rivers define the rhythm here. These three countries look connected on a map, but the feeling of travel is shaped by water: the Mekong’s flow, quiet morning markets, and rural landscapes. RAOU builds routes based on rhythm, not quantity. Hanoi’s energy → Hoi An’s calm → Siem Reap’s pulse → Luang Prabang’s stillness. The deepest experiences belong to those who choose not to rush.",
+      "image": "/assets/vietnam.png",
+      "countries": [
+        "Vietnam",
+        "Cambodia",
+        "Laos"
+      ]
+    },
+    {
+      "region": "Sri Lanka",
+      "slug": "sri-lanka",
+      "shortDescription": "Contrast creates clarity... Sri Lanka unfolds when you let it breathe.",
+      "longDescription": "Contrast creates clarity. The island is a sequence of opposites working in harmony: cool tea fields, warm coastlines, and wildlife at dusk. RAOU designs Sri Lanka as a single narrative each region completing the next. The journey becomes richer when every stop is allowed its own pace. Sri Lanka unfolds when you let it breathe.",
+      "image": "/assets/sri-lanka.png",
+      "countries": [
+        "Sri Lanka"
+      ]
+    },
+    {
+      "region": "Thailand",
+      "slug": "thailand",
+      "shortDescription": "Choosing well is better than seeing more... Even in crowds, clarity is possible when pacing is intentional.",
+      "longDescription": "Choosing well is better than seeing more. Thailand offers endless possibilities, but the real travel experience depends on selection. RAOU avoids checklist-style planning. Bangkok’s energy, the islands’ calm, and the country’s culinary depth work only when placed in the right order. Even in crowds, clarity is possible when pacing is intentional.",
+      "image": "/assets/thailand.png",
+      "countries": [
+        "Thailand"
+      ]
+    },
+    {
+      "region": "Japan & South Korea",
+      "slug": "japan-south-korea",
+      "shortDescription": "Structure shapes the experience... In these countries, the right details change everything.",
+      "longDescription": "Structure shapes the experience. In Japan, rhythm and design define movement; in Korea, food and culture create momentum. RAOU builds balance between the two: Tokyo’s lines → Kyoto’s quiet → Seoul’s motion. Routes are crafted like architecture flow, texture, intention. In these countries, the right details change everything.",
+      "image": "/assets/japan.png",
+      "countries": [
+        "Japan",
+        "South Korea"
+      ]
+    },
+    {
+      "region": "South of France",
+      "slug": "south-of-france",
+      "shortDescription": "Light, texture, and time slow down together... The day sets the rhythm, not the itinerary.",
+      "longDescription": "Light, texture, and time slow down together. Southern France is best experienced through stillness. Villages, vineyards, and coastal towns reward unhurried travel. RAOU treats this region not as a list of places, but as a pacing exercise wine, conversation, gentle walks, shifting light. The day sets the rhythm, not the itinerary.",
+      "image": "/assets/france.png",
+      "countries": [
+        "France"
+      ]
+    },
+    {
+      "region": "Switzerland & Alpine Villages",
+      "slug": "switzerland-alpine-villages",
+      "shortDescription": "Clarity is the landscape itself... The Alps aren’t about height—they’re about openness.",
+      "longDescription": "Clarity is the landscape itself. Switzerland’s lakes and mountains simplify everything. But many rush through what should be slow. RAOU routes align with the land’s natural breath. Each pass, lake, and village becomes meaningful when the pace matches the scenery. The Alps aren’t about height they’re about openness.",
+      "image": "/assets/switzerland.png",
+      "countries": [
+        "Switzerland"
+      ]
+    },
+    {
+      "region": "Brazil – Carnival & Beyond",
+      "slug": "brazil",
+      "shortDescription": "Movement is energy, but structure creates access... The journey becomes a shift from energy to balance.",
+      "longDescription": "Movement is energy, but structure creates access. Carnival feels chaotic from the outside, yet everything depends on precision and timing. RAOU manages flow where to be, how to move, how to experience safely and fully. Beyond Carnival, Brazil transforms into nature, culture, and rhythm. The journey becomes a shift from energy to balance.",
+      "image": "/assets/brazil.png",
+      "countries": [
+        "Brazil"
+      ]
+    },
+    {
+      "region": "Africa – Safari Routes",
+      "slug": "africa-safari",
+      "shortDescription": "Silence is part of the experience... A safari is meaningful when it honors the right moment.",
+      "longDescription": "Silence is part of the experience. Safari is not a visual checklist; it's a dialogue between patience, timing, and nature. RAOU plans routes around daylight, migration patterns, and stillness. Lodges, parks, and drives are chosen for rhythm not convenience. A safari is meaningful when it honors the right moment.",
+      "image": "/assets/africa.png",
+      "countries": [
+        "South Africa",
+        "Kenya",
+        "Tanzania",
+        "Botswana"
+      ]
+    },
+    {
+      "region": "Italy – North & South",
+      "slug": "italy",
+      "shortDescription": "Two regions, two rhythms... The right order turns contrast into continuity.",
+      "longDescription": "Two regions, two rhythms. The North offers lakes, structure, design, and wine. The South brings warmth, coastline, and slower movement. RAOU creates harmony between these contrasts. Italy’s power is not in variety itself, but in the sequence of experiencing it. The right order turns contrast into continuity.",
+      "image": "/assets/italy.png",
+      "countries": [
+        "Italy"
+      ]
+    }
+  ],
+  "journal": {
+    "title": "The Journal",
+    "subtitle": "Stories from the road less traveled",
+    "posts": [
+      {
+        "title": "Why Travel Needs Clarity",
+        "slug": "why-travel-needs-clarity",
+        "author": "Raou Editorial",
+        "date": "December 5, 2025",
+        "image": "/assets/journal-clarity.png",
+        "excerpt": "Travel often becomes complicated not because we don’t know where to go, but because we don’t know what we’re actually seeking.",
+        "content": "Travel often becomes complicated not because we don’t know where to go, but because we don’t know what we’re actually seeking.\n\nClarity is not the removal of complexity; it is the quiet recognition of intention. Most journeys today are built on abundance — too many choices, too many lists, too many voices telling us what matters. Yet the best trips rarely come from “seeing more.” They come from deciding what can be left unseen without losing meaning.\n\nClarity is subtractive. It removes the noise so the essence can surface. When a traveler knows why they’re going, the “where” aligns easily. Places feel more honest, decisions feel lighter, and the journey begins long before departure — in the moment intention takes shape.\n\nSo perhaps the real question isn’t “Where should I go next?” but something far more challenging:\n\n**What am I hoping this journey will change in me?**"
+      },
+      {
+        "title": "The Pace of a Journey",
+        "slug": "the-pace-of-a-journey",
+        "author": "Raou Editorial",
+        "date": "December 4, 2025",
+        "image": "/assets/journal-pace.png",
+        "excerpt": "Every destination has a natural pace — a rhythm woven into its mornings, its streets, its light. And every traveler carries their own internal tempo.",
+        "content": "Every destination has a natural pace — a rhythm woven into its mornings, its streets, its light. And every traveler carries their own internal tempo. A meaningful trip is the quiet negotiation between the two.\n\nModern travel rewards acceleration: tighter schedules, early flights, the need to “fit it all in.” But places rarely reveal themselves at that speed. A city opens itself gradually, offering layers to those willing to slow down and observe the subtleties that rush past the hurried traveler.\n\nAt RAOU, we see pacing as a form of respect — both to the destination and to the person experiencing it. A journey that breathes becomes a mirror: it shows you what happens when you finally move at the speed your mind has been asking for.\n\nSo when planning a trip, maybe the key is not “How much can I do?” but something softer, more intimate:\n\n**How slowly am I willing to go to truly feel where I am?**"
+      },
+      {
+        "title": "The Art of Choosing Less",
+        "slug": "the-art-of-choosing-less",
+        "author": "Raou Editorial",
+        "date": "December 3, 2025",
+        "image": "/assets/journal-less.png",
+        "excerpt": "There is a quiet courage in choosing less — especially in a world encouraging us to want more.",
+        "content": "There is a quiet courage in choosing less — especially in a world encouraging us to want more. Travel magnifies this tension: the desire to see everything versus the need to experience something fully.\n\nMost itineraries collapse under their own weight. Too many stops, too many expectations, too many attempts to collect places instead of moments. But the real depth of a journey comes from intentional omission.\n\nNot everything needs to be included. Not everything deserves space. When you remove the unnecessary, the remaining experiences gain clarity. A single conversation, a single sunset, a single neighborhood walk can become more memorable than a week of rushing.\n\nLess becomes a lens — sharpening what matters, dissolving what doesn’t. So maybe the true art of travel is not in adding another destination, but in asking yourself with honesty:\n\n**What would I choose if I wasn’t trying to prove I’ve seen enough?**"
+      },
+      {
+        "title": "How Regions Shape Emotion",
+        "slug": "how-regions-shape-emotion",
+        "author": "Raou Editorial",
+        "date": "December 2, 2025",
+        "image": "/assets/journal-emotion-v2.png",
+        "excerpt": "Every region shapes us differently. Light, terrain, climate, sound — each alters the way we move, think, and even feel.",
+        "content": "Every region shapes us differently. Light, terrain, climate, sound — each alters the way we move, think, and even feel.\n\nJapan encourages precision and attentiveness.\nSouthern Europe softens edges and expands time.\nThe Alps introduce a spacious calm.\nSoutheast Asia invites a slower breath, a surrender to flow.\n\nWe often think we are the ones “experiencing” a place, but perhaps the place is also experiencing us — subtly rearranging our moods, our assumptions, our internal rhythm.\n\nUnderstanding a region’s emotional vocabulary allows a journey to feel coherent rather than accidental. Moments align, transitions soften, and you begin to sense why some places exhaust you while others quietly rebuild you.\n\nWhich leads to a more interesting question than “Where should I go?” — a question almost no one asks, but perhaps everyone should:\n\n**Which version of myself do I want this place to bring forward?**"
+      }
+    ]
+  },
+  "contact": {
+    "hero": {
+      "title": "Get in Touch",
+      "subtitle": "We respond with clarity and offer support throughout the planning process."
+    },
+    "emails": {
+      "dmc": {
+        "label": "For Brands & Agencies (DMC)",
+        "email": "partners@raoutravel.com",
+        "response": "within 24 hours"
+      },
+      "travelers": {
+        "label": "For Travelers (Curated Travel)",
+        "email": "travel@raoutravel.com",
+        "response": "within 48 hours"
+      }
+    },
+    "form": {
+      "title": "Start Your Travel Request",
+      "types": {
+        "dmc": "Brand / Agency (DMC)",
+        "private": "Private Traveler"
+      },
+      "commonFields": {
+        "name": "Full Name",
+        "email": "Email Address",
+        "phone": "Phone Number",
+        "destination": "Destination / Region of Interest",
+        "dates": "Preferred Dates"
+      },
+      "dmcFields": {
+        "companyName": "Company / Agency Name",
+        "role": "Your Role",
+        "eventType": {
+          "label": "Event Type",
+          "options": [
+            "Incentive",
+            "Corporate Meeting",
+            "Brand Activation",
+            "Conference",
+            "Other"
+          ]
+        },
+        "groupSize": "Estimated Group Size",
+        "budget": "Estimated Budget"
+      },
+      "privateFields": {
+        "travelers": "Number of Travelers",
+        "travelStyle": {
+          "label": "Travel Style",
+          "options": [
+            "Relaxed & Leisure",
+            "Adventure & Active",
+            "Cultural Immersion",
+            "Family Focused",
+            "Ultra-Luxury"
+          ]
+        },
+        "budget": "Estimated Budget Range",
+        "interests": "Special Interests"
+      },
+      "messageField": "Tell us more about your request...",
+      "submitButton": "Send Request",
+      "successMessage": "Thank you. We will be in touch shortly."
+    }
+  },
+  "footer": {
+    "brandName": "RAOU Travel",
+    "description": "Boutique DMC & Curated Travel. Clear plans. Meaningful travel.",
+    "links": [
+      {
+        "label": "Home",
+        "path": "/"
+      },
+      {
+        "label": "About Us",
+        "path": "/about"
+      },
+      {
+        "label": "Services",
+        "path": "/services"
+      },
+      {
+        "label": "Signature Destinations",
+        "path": "/destinations"
+      },
+      {
+        "label": "Journal",
+        "path": "/journal"
+      },
+      {
+        "label": "Contact",
+        "path": "/contact"
+      }
+    ],
+    "copyright": "RAOU. All rights reserved."
+  }
+}
