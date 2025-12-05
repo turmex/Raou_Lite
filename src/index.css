@@ -1,0 +1,133 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Definition of the design system. All colors, gradients, fonts, etc should be defined here. 
+All colors MUST be HSL.
+*/
+
+@layer base {
+  :root {
+    --background: 0 0% 100%;
+    --foreground: 20 14% 15%;
+
+    --card: 0 0% 100%;
+    --card-foreground: 20 14% 15%;
+
+    --popover: 0 0% 100%;
+    --popover-foreground: 20 14% 15%;
+
+    --primary: 20 14% 15%;
+    --primary-foreground: 30 40% 98%;
+
+    --secondary: 30 35% 93%;
+    --secondary-foreground: 20 14% 15%;
+
+    --muted: 30 35% 93%;
+    --muted-foreground: 25 8% 45%;
+
+    --accent: 18 45% 52%;
+    --accent-foreground: 30 40% 98%;
+
+    --destructive: 0 84.2% 60.2%;
+    --destructive-foreground: 30 40% 98%;
+
+    --border: 30 20% 88%;
+    --input: 30 20% 88%;
+    --ring: 18 45% 52%;
+
+    --radius: 0.5rem;
+
+    /* Luxury travel brand colors */
+    --brand-primary: 20 14% 15%;
+    --brand-accent: 18 45% 52%;
+    --brand-warm: 30 40% 96%;
+    --brand-stone: 30 8% 52%;
+
+    /* Gradients */
+    --gradient-hero: linear-gradient(135deg, hsl(20 14% 15% / 0.7), hsl(20 14% 15% / 0.3));
+    --gradient-overlay: linear-gradient(180deg, transparent 0%, hsl(20 14% 15% / 0.8) 100%);
+
+    /* Shadows */
+    --shadow-luxury: 0 20px 60px -10px hsl(20 14% 15% / 0.15);
+    --shadow-card: 0 10px 40px -5px hsl(20 14% 15% / 0.1);
+
+    /* Transitions */
+    --transition-smooth: all 0.4s cubic-bezier(0.4, 0, 0.2, 1);
+    --transition-fast: all 0.2s cubic-bezier(0.4, 0, 0.2, 1);
+  }
+
+  .dark {
+    --background: 20 14% 10%;
+    --foreground: 30 40% 98%;
+
+    --card: 20 14% 12%;
+    --card-foreground: 30 40% 98%;
+
+    --popover: 20 14% 12%;
+    --popover-foreground: 30 40% 98%;
+
+    --primary: 30 40% 98%;
+    --primary-foreground: 20 14% 15%;
+
+    --secondary: 20 10% 20%;
+    --secondary-foreground: 30 40% 98%;
+
+    --muted: 20 10% 20%;
+    --muted-foreground: 25 8% 65%;
+
+    --accent: 18 45% 52%;
+    --accent-foreground: 30 40% 98%;
+
+    --destructive: 0 62.8% 50%;
+    --destructive-foreground: 30 40% 98%;
+
+    --border: 20 10% 20%;
+    --input: 20 10% 20%;
+    --ring: 18 45% 52%;
+  }
+}
+
+@layer base {
+  * {
+    @apply border-border;
+  }
+
+  body {
+    @apply bg-background text-foreground font-sans;
+  }
+
+  h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6 {
+    @apply font-serif;
+  }
+
+  .luxury-tracking {
+    @apply tracking-[0.2em] uppercase;
+  }
+
+  .luxury-leading {
+    @apply leading-[1.8];
+  }
+
+  .image-zoom-container {
+    @apply overflow-hidden;
+  }
+
+  .image-zoom-container img {
+    @apply transition-transform duration-1500 ease-out;
+  }
+
+  .bg-brand-warm {
+    background-color: #F9F8F6;
+    /* Cream/Off-white */
+  }
+
+  .image-zoom-container:hover img {
+    @apply scale-105;
+  }
+}
