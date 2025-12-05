@@ -96,6 +96,11 @@ export interface HomeConfig {
         title: string;
         subtitle: string;
     };
+    buttons?: {
+        philosophy?: string;
+        viewDestinations?: string;
+        readJournal?: string;
+    };
 }
 
 export interface AboutConfig {

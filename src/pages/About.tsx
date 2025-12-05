@@ -12,9 +12,7 @@ const About = () => {
   if (!content) return null;
 
   const { about } = content;
-  const activeContent = mode === 'short'
-    ? (about.content_short || about.content)
-    : (about.content_long || about.content);
+  const activeContent = about.content_long || about.content;
 
   return (
     <div className="min-h-screen bg-background">
@@ -42,7 +40,7 @@ const About = () => {
         <div className="container relative z-10 px-4 text-center text-white">
           <h1 className="text-5xl md:text-7xl font-serif mb-6">{about.hero.title}</h1>
           <p className="text-xl md:text-2xl font-light max-w-2xl mx-auto luxury-leading">
-            {mode === 'short' ? (about.hero.subtitle_short || about.hero.subtitle) : (about.hero.subtitle_long || about.hero.subtitle)}
+            {about.hero.subtitle_long || about.hero.subtitle}
           </p>
         </div>
       </section>

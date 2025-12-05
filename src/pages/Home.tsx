@@ -132,7 +132,7 @@ const Home = () => {
                     </div>
                     <h3 className="font-serif text-xl text-foreground/90 mb-2">{step.name}</h3>
                     <div className="h-24 flex items-start justify-center pt-2">
-                      <p className="text-sm text-muted-foreground font-light px-2 opacity-0 group-hover:opacity-100 transition-opacity duration-500">
+                      <p className="text-sm text-muted-foreground font-light px-2 transition-opacity duration-500">
                         {mode === 'short' ? (step.description_short || step.description) : (step.description_long || step.description)}
                       </p>
                     </div>
